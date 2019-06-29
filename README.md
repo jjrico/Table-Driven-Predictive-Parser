@@ -3,6 +3,7 @@
 This program uses a stack based algorithm along with a table driven predictive LR Parser to identify string that are accepted by the Context Free Grammar below:
 
 S--> F = E
+
 E--> E + T
 E--> E - T
 E--> T
